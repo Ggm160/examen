@@ -1,6 +1,9 @@
 
 import java.util.Scanner;
-
+/**
+ * @author gregorio
+ * Clase que realiza el aumento de sueldo...
+ */
 public class AumentoSueldo {
 
 	private static final int SUELDO_COMERCIAL = 1400;
